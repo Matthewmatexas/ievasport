@@ -1,0 +1,7 @@
+Galimos ir dazniausiai pasitaikancios dienyno problemu priezastys:
+
+Dienynas yra atnaujinamas;
+Dienyno serveriai neveikia taisyklingai;
+Dienynas buvo isimtas is interneto;
+Dienynas buvo uzblokuotas;
+Dienyno nuoroda nebegalioja.
