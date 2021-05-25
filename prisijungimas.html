@@ -2,7 +2,6 @@
 <html lang="lt">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prisijungimas</title>
     <link rel="shortcut icon" type="image/jpg" href="photos/favicon.ico">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -62,8 +61,16 @@ div a{
     color: black;
     text-decoration: none;
 }
+       @media only screen and (max-width: 640px){
+           .container{
+               max-width: 400px;
+           }
+           body{
+               padding-top: 300px;
+           }
+       }
     </style>
-    <h1>Prisijungimas</h1>
+    <h1 style="margin-bottom: 50px;">Prisijungimas</h1>
 <!--    <img src="photos/login.png" alt="Prisijungimo kodai" style="width: 400px; height: 400px;">-->
   <form>
    <div class="container">
